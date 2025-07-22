@@ -16,6 +16,10 @@ This work provides a reproducible and practical solution that can be further opt
 
 ---
 
+*Keywords – Plant Disease Detection, Deep Learning, Convolutional Neural Network (CNN), Image Classification, Residual Learning, OneCycleLR, Smart Agriculture, PyTorch, Leaf Diagnosis, Agricultural AI, Computer Vision, Mobile Deployment, Crop Health Monitoring*
+
+---
+
 ##  2. Introduction
 
 ### Problem Definition:
