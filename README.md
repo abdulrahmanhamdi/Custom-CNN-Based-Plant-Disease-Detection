@@ -78,7 +78,7 @@ Potato___Late_blight
 
 > ![Class Distribution](class_distribution.png)
 
-**Figure 1:** Bar plot showing the number of images per disease class in the training dataset.
+**Figure 1:** Example grid of leaf images from different classes in the dataset.
 
 ### Model Architecture
 - **Conv2D layers** with BatchNorm + ReLU
@@ -99,7 +99,7 @@ Potato___Late_blight
 
 > ![Sample Dataset Grid](dataset_grid.png)
 
-**Figure 2:** Example grid of leaf images from different classes in the dataset.
+**Figure 2:** Bar plot showing the number of images per disease class in the training dataset.
 
 ---
 
