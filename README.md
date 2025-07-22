@@ -168,7 +168,7 @@ By using a well-balanced dataset, residual blocks, and efficient training techni
 
 ---
 
-## 📃 8. References
+##  8. References
 
 [1] P. Mohanty, D. P. Hughes, and M. Salathé, “Using Deep Learning for Image-Based Plant Disease Detection,” *Front. Plant Sci.*, vol. 7, p. 1419, Sep. 2016.
 
